@@ -357,10 +357,14 @@
 	.boosted__descr {
 		font-size: 14px;
 	}
+	
+	.boosted__content {
+		height: 778px;
+	}
 
 	.boosted__block {
 		width: 90vw;
-		height: 123vh;
+		height: 100%;
 	}
 
 	.performance__content {
