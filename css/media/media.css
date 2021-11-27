@@ -359,7 +359,7 @@
 	}
 	
 	.boosted__content {
-		height: 778px;
+		max-height: 778px;
 	}
 
 	.boosted__block {
